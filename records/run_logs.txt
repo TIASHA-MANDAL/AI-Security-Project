@@ -1,0 +1,54 @@
+
+
+awake 01-11-2022_13-30-56
+01-11-2022_13-31-06 : process started -> img_0.jpg taken -> person detected with conf: 0.681 -> access denied -> process terminated
+01-11-2022_13-31-08 : process started -> img_1.jpg taken -> person detected with conf: 0.87 -> access denied -> process terminated
+01-11-2022_13-31-08 : process started -> img_2.jpg taken -> person detected with conf: 0.881 -> access denied -> process terminated
+01-11-2022_13-31-09 : process started -> img_3.jpg taken -> person detected with conf: 0.846 -> access granted to Suravi with conf 0.439 -> process terminated
+01-11-2022_13-31-09 : process started -> img_4.jpg taken -> person detected with conf: 0.88 -> access granted to Suravi with conf 0.402 -> process terminated
+01-11-2022_13-31-09 : process started -> img_5.jpg taken -> person detected with conf: 0.882 -> access granted to Suravi with conf 0.323 -> process terminated
+
+awake 01-11-2022_13-35-17
+01-11-2022_13-35-27 : process started -> img_0.jpg taken -> person detected with conf: 0.58 -> access granted to Suravi with conf 0.283 -> process terminated
+01-11-2022_13-35-30 : process started -> img_1.jpg taken -> person detected with conf: 0.804 -> access granted to Suravi with conf 0.431 -> process terminated
+01-11-2022_13-35-31 : process started -> img_2.jpg taken -> person detected with conf: 0.75 -> access denied -> process terminated
+
+awake 01-11-2022_13-59-51
+01-11-2022_14-00-19 : process started -> img_0.jpg taken -> detected no one -> process terminated
+01-11-2022_14-00-20 : process started -> img_1.jpg taken -> detected no one -> process terminated
+01-11-2022_14-00-20 : process started -> img_2.jpg taken -> detected no one -> process terminated
+01-11-2022_14-00-21 : process started -> img_3.jpg taken -> detected no one -> process terminated
+01-11-2022_14-00-21 : process started -> img_4.jpg taken -> detected no one -> process terminated
+01-11-2022_14-00-22 : process started -> img_5.jpg taken -> detected no one -> process terminated
+01-11-2022_14-00-22 : process started -> img_6.jpg taken -> detected no one -> process terminated
+01-11-2022_14-00-22 : process started -> img_7.jpg taken -> detected no one -> process terminated
+01-11-2022_14-00-23 : process started -> img_8.jpg taken -> detected no one -> process terminated
+01-11-2022_14-00-23 : process started -> img_9.jpg taken -> detected no one -> process terminated
+01-11-2022_14-00-23 : process started -> img_10.jpg taken -> detected no one -> process terminated
+01-11-2022_14-00-23 : process started -> img_11.jpg taken -> detected no one -> process terminated
+01-11-2022_14-00-25 : process started -> img_12.jpg taken -> detected no one -> process terminated
+01-11-2022_14-00-25 : process started -> img_13.jpg taken -> detected no one -> process terminated
+01-11-2022_14-00-26 : process started -> img_14.jpg taken -> detected no one -> process terminated
+01-11-2022_14-00-27 : process started -> img_15.jpg taken -> detected no one -> process terminated
+01-11-2022_14-00-29 : process started -> img_16.jpg taken -> person detected with conf: 0.696 -> access denied -> process terminated
+01-11-2022_14-01-47 : process started -> img_17.jpg taken -> detected no one -> process terminated
+01-11-2022_14-02-01 : process started -> img_18.jpg taken -> person detected with conf: 0.895 -> access granted to Suravi with conf 0.32 -> process terminated
+
+awake 10-11-2022_11-17-00
+10-11-2022_11-17-14 : process started -> img_0.jpg taken -> person detected with conf: 0.804 -> access denied -> process terminated
+10-11-2022_11-17-21 : process started -> img_1.jpg taken -> person detected with conf: 0.757 -> access denied -> process terminated
+10-11-2022_11-17-22 : process started -> img_2.jpg taken -> person detected with conf: 0.856 -> access granted to Suravi with conf 0.414 -> process terminated
+
+awake 10-11-2022_11-50-27
+10-11-2022_11-50-40 : process started -> img_0.jpg taken -> detected no one -> process terminated
+10-11-2022_11-50-41 : process started -> img_1.jpg taken -> person detected with conf: 0.693 -> access denied -> process terminated
+10-11-2022_11-50-43 : process started -> img_2.jpg taken -> person detected with conf: 0.705 -> access denied -> process terminated
+
+awake 10-11-2022_11-56-02
+10-11-2022_11-56-12 : process started -> img_-1.jpg taken -> person detected with conf: 0.741 -> access denied -> process terminated
+10-11-2022_11-56-14 : process started -> img_-1.jpg taken -> detected no one -> process terminated
+10-11-2022_11-56-14 : process started -> img_-1.jpg taken -> detected no one -> process terminated
+10-11-2022_11-56-15 : process started -> img_-1.jpg taken -> detected no one -> process terminated
+10-11-2022_11-56-16 : process started -> img_-1.jpg taken -> detected no one -> process terminated
+10-11-2022_11-56-17 : process started -> img_-1.jpg taken -> detected no one -> process terminated
+10-11-2022_11-56-18 : process started -> img_-1.jpg taken -> person detected with conf: 0.494 -> access denied -> process terminated
